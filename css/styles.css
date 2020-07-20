@@ -172,12 +172,13 @@ p{
 
   #title{
     text-align: center;
-    font-family: 'Montserrat-Black', sans-serif;
-    font-weight: 900;
-    line-height: 1.5;
-    font-size: 3.5rem;
   }
-
+  #title .big-heading{
+  font-family: 'Montserrat-Black', sans-serif;
+  font-weight: 900;
+  line-height: 1.5;
+  font-size: 3.5rem;
+  }
   .title-image{
     position: static;
     transform: rotate(0);
